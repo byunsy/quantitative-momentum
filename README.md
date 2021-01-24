@@ -21,4 +21,4 @@ Every detailed step was recorded in the notebook and can easily be followed ther
 
 ## Examples
 
-![](images/.PNG)
+![](images/q_momentum.PNG)
